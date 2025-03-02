@@ -2,5 +2,5 @@ I'm Jeroen Baert. I write software, mostly for graphics-related applications. I 
 
  * [Blog](https://www.forceflow.be) (EN)
  * [Homepage](https://www.jeroen-baert.be) (NL)
- * [Twitter](https://www.twitter.com/jbaert)
+ * [BlueSky](https://bsky.app/profile/jbaert.bsky.social)
  * <a rel="me" href="https://mastodon.social/@jbaert">Mastodon</a>
